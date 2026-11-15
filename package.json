@@ -1,0 +1,9 @@
+{
+  "name": "modern-calculator-app",
+  "version": "1.0.0",
+  "description": "A modern responsive calculator app using HTML, CSS, and JavaScript",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
